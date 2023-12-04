@@ -30,13 +30,17 @@ body{
     box-sizing: border-box;
     border-radius: 10px;
     height: 80px;
-    width: 350px;
+    width: 100%;
 }
 
 .btn9 {
     background-color: rgba(39, 39, 247, 0.649);
     margin-top: 20px;
-    width: 250px;
+    width: 30%;
     height: 50px;
     color: black;
 }
+@media  screen () {
+    
+}
+
